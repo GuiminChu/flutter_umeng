@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_umeng (0.0.1):
+    - Flutter
+    - UMengAnalyticsFramework
+  - UMengAnalyticsFramework (5.5.1)
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - flutter_umeng (from `.symlinks/plugins/flutter_umeng/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - UMengAnalyticsFramework
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  flutter_umeng:
+    :path: ".symlinks/plugins/flutter_umeng/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  flutter_umeng: 6211271321fe3289a3ac4e32fdcb1cccc29964ac
+  UMengAnalyticsFramework: 6163497632023d5fbff4d0a83be57d7192c06d3e
+
+PODFILE CHECKSUM: d231b65d6bea6d24555f84ca7901720538b5791f
+
+COCOAPODS: 1.6.1
